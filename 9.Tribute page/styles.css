@@ -21,3 +21,7 @@ p,h1,h2{
     text-align: center;
     background-color: coral;
 }
+#image{
+    display: block;
+    max-width: 100%;
+}
